@@ -40,7 +40,11 @@ O código está no arquivo **`main.py`** e funciona da seguinte forma:
 
 ### 1. Clonar o repositório
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/RaulFernandesGoulart/Karatasuba
+=======
+git clone https://github.com/RaulFernandesGoulart/Karatasuba.git
+>>>>>>> ce147b12cf9c837579b215ca91ae0f719cb0092e
 cd karatsuba
 
 Criar e ativar ambiente virtual

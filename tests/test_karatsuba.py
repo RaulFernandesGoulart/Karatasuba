@@ -1,4 +1,5 @@
-# testes unitários (pytest)import random
+# testes unitários (pytest)
+import random
 from main import karatsuba
 
 def test_pequenos():
